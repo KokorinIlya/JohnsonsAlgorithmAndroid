@@ -4,4 +4,4 @@ Android application with implementation of The Johnson's algorithm for finding t
 
 Layout generation can be done with DSL, written using Kotlin programming language or by XML (the ordinary way to generate layout)
 
-
+![Project illustration](https://github.com/KokorinIlya/JohnsonsAlgorithmAndroid/blob/master/Picture/Screenshot.png)
